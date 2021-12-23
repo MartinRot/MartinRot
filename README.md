@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartinRot
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript, React, Node, C, C++
+- 🌱 I’m currently learning JavaScript, React JS, Node JS, C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me martin_rot@hotmail.com
 
