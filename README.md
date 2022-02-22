@@ -57,8 +57,8 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinrot&show_icons=true&locale=en&layout=compact" alt="martinrot" /></p>
 
 <p>&nbsp;
-  <p> 
+  
 ## Stats
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinrot&show_icons=true&theme=radical)
-    </p>
+    
 
