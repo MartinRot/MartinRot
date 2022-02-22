@@ -14,6 +14,8 @@ You can find me 🌎:
 - 
 [![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinrot)](https://github.com/anuraghazra/github-readme-stats)
 
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinrot&show_icons=true&theme=radical)
+
 
 
 
