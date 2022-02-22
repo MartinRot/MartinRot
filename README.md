@@ -1,7 +1,7 @@
 ## Hi, I'm Martin 👋 🚀
 
 
-## about me in code
+## About me in code
 ```js
 const martin{
   pronouns: "he" | "him",
@@ -15,7 +15,7 @@ I am currently looking for a job as a developer
 - [Linkedin](https://www.linkedin.com/in/martin-rotelli/)
 - [Email](martin_rot@hotmail.com)
 
-
+## Stats
 ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinrot&show_icons=true&theme=radical)
 
 
