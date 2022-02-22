@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Martin 👋 🚀
 
 ```js
 const martin{
@@ -6,6 +6,11 @@ const martin{
   skills: [HTML, CSS, Javascript, ReactJS, C++],
 }
 ```
+You can find me 🌎:
+- [Linkedin] (https://www.linkedin.com/in/martin-rotelli/)
+- [Email] (martin_rot@hotmail.com)
+
+
 
 - 👋 Hi, I’m @MartinRot
 - 👀 I’m interested in programming
