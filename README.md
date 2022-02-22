@@ -1,21 +1,3 @@
-## Hi, I'm Martin 👋 🚀
-I am currently looking for a job as a developer
-
-## About me in code
-
-```js
-const martin{
-  pronouns: "he" | "him",
-  skills: [HTML, CSS, Javascript, ReactJS, C++],
-}
-```
-
-## You can find me 🌎:
-- [Linkedin](https://www.linkedin.com/in/martin-rotelli/)
-- [Email](martin_rot@hotmail.com)
-
-
-
 
 <!---
 MartinRot/MartinRot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,12 +5,12 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Martin</h1>
+<h1 align="center">Hi 👋, I'm Martin 🚀</h1>
 <h3 align="center">A passionate frontend developer from Argentina and I am currently looking for a job as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrot&label=Profile%20views&color=0e75b6&style=flat" alt="martinrot" /> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, REACT, Node**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, REACT JS, Node**
 
 - 📫 How to reach me **martin_rot@hotmail.com**
 
