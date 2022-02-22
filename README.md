@@ -1,3 +1,12 @@
+## Hi there 👋
+
+```js
+const martin{
+  pronouns: "he" | "him",
+  skills: [HTML, CSS, Javascript, ReactJS, C++],
+}
+```
+
 - 👋 Hi, I’m @MartinRot
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript, React JS, Node JS, C, C++
