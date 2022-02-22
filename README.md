@@ -6,17 +6,16 @@ const martin{
   skills: [HTML, CSS, Javascript, ReactJS, C++],
 }
 ```
+- I am currently looking for a job as a developer
+
 You can find me 🌎:
 - [Linkedin](https://www.linkedin.com/in/martin-rotelli/)
 - [Email](martin_rot@hotmail.com)
+- 
+[![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=martinrot)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-- 👋 Hi, I’m @MartinRot
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript, React JS, Node JS, C, C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me martin_rot@hotmail.com
 
 <!---
 MartinRot/MartinRot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
