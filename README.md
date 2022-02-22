@@ -7,8 +7,8 @@ const martin{
 }
 ```
 You can find me 🌎:
-- [Linkedin] (https://www.linkedin.com/in/martin-rotelli/)
-- [Email] (martin_rot@hotmail.com)
+- [Linkedin](https://www.linkedin.com/in/martin-rotelli/)
+- [Email](martin_rot@hotmail.com)
 
 
 
