@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h1 align="center">Hi 👋, I'm Martin 🚀</h1>
+<h1 align="center"> - Hi 👋, I'm Martin 🚀 - </h1>
 <h3 align="center">A passionate frontend developer from Argentina and I am currently looking for a job as a developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrot&label=Profile%20views&color=0e75b6&style=flat" alt="martinrot" /> </p>
