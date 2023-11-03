@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
     <ul>
         <li><a href="http://www.parenlapelotafutsal.com.ar" target="_blank">Paren la Pelota Futsal</a>(Proyecto Real - Next JS + Tailwind CSS + Firebase)</li>
         <li><a href="http://www.parenlapelota.com.ar" target="_blank">Paren la Pelota</a>(Proyecto Real - Next JS + Tailwind CSS + Firebase)</li>
-        <li><a href="https://gregarious-medovik-37f771.netlify.app/" target="_blank">PokeApi</a>(Proyecto Académico - React JS + Tailwind CSS)</li>
+        <li class='margin-top:4px><a href="https://gregarious-medovik-37f771.netlify.app/" target="_blank">PokeApi</a>(Proyecto Académico - React JS + Tailwind CSS)</li>
         <li><a href="https://martinrot.github.io/Javascript-CoderHouse/" target="_blank">Calculadora IMC</a>(Proyecto Académico - Javascript Vanilla + Bootstrap)</li>
         <li><a href="https://trusting-shockley-92f2ca.netlify.app/" target="_blank">Tienda DeZapas</a>(Proyecto Académico - React JS + Tailwind CSS + Firebase</li>
         <li><a href="https://taupe-salmiakki-7827bb.netlify.app/" target="_blank">Weather App</a>(Proyecto Académico - React JS + Tailwind CSS</li>
