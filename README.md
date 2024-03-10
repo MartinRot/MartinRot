@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrot&label=Profile%20views&color=0e75b6&style=flat" alt="martinrot" /> </p>
 
-- 🌱 I’m currently learning **React JS, React Navite, Next JS, Node**
+- 🌱 I’m currently learning **React JS, React Navite, Next JS, Node JS**
 
 - 📫 How to reach me **martin_rot@hotmail.com**
 
