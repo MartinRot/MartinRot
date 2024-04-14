@@ -10,10 +10,15 @@ You can click the Preview link to take a look at your changes.
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrot&label=Profile%20views&color=0e75b6&style=flat" alt="martinrot" /> </p>  -->
 
-- 🌱 I’m currently learning **React JS, React Navite, Next JS, Node JS**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=martinrot" alt="martinrot" /></a> </p>
+
+- 🔭 I’m currently working on [Paren La Pelota](parenlapelotafutsal.com.ar)
+
+- 🌱 I’m currently learning **Next JS, React Native**
+
+- 👨‍💻 All of my projects are available at [github.com/MartinRot/](github.com/MartinRot/)
 
 - 📫 How to reach me **martin_rot@hotmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/martin-rotelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin-rotelli" height="30" width="40" /></a>
