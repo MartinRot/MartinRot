@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">A frontend developer from Argentina.</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinrot&label=Profile%20views&color=0e75b6&style=flat" alt="martinrot" /> </p>  -->
-- 🔭 I’m currently working on [Paren La Pelota] -> www.parenlapelotafutsal.com.ar
+- 🔭 I’m currently working on **Paren La Pelota** -> www.parenlapelotafutsal.com.ar
 
 - 🌱 I’m currently learning **Next JS, React Native**
 
