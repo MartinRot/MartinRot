@@ -32,7 +32,7 @@
 ---
 
 ### 🚀 Algunos de mis proyectos  
-📌 **Proyectos Reales**
+📌 **Proyectos**
 - 🔗 [Paren la Pelota Futsal](http://www.parenlapelotafutsal.com.ar) _(Next.js + Tailwind CSS + Firebase)_  
 - 🔗 [Paren la Pelota](http://www.parenlapelota.com.ar) _(Next.js + Tailwind CSS + Firebase)_  
 
