@@ -8,7 +8,7 @@
 ---
 
 ### 📌 Sobre mí
-- 💻 Founder at **[Playof App](https://jugaplayoff.com) - [Playof Club](https://clubplayoff.com/argentina)**
+- 💻 Founder at **[Playoff App](https://jugaplayoff.com) - [Playoff Club](https://clubplayoff.com/argentina)**
 - 🔭 Trabajo en **[Paren La Pelota](https://www.parenlapelotafutsal.com.ar)**
 - 🌱 Aprendiendo **Next.js, React Native y Node.js**
 - 💻 Mis proyectos están disponibles en [mi GitHub](https://github.com/MartinRot/)
