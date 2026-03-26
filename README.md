@@ -35,7 +35,8 @@
 ### 🚀 Algunos de mis proyectos  
 📌 **Proyectos**
 - 🔗 [Paren la Pelota Futsal](http://www.parenlapelotafutsal.com.ar) _(Next.js + Tailwind CSS + Firebase)_  
-- 🔗 [Paren la Pelota](http://www.parenlapelota.com.ar) _(Next.js + Tailwind CSS + Firebase)_  
+- 🔗 [Paren la Pelota](http://www.parenlapelota.com.ar) _(Next.js + Tailwind CSS + Firebase)_
+- 🔗 [Playoff App](http://www.playoff.com) [Club Playoff](http://www.clubplayoff.com/argentina) _(Next.js, React, TypeScript, Tailwind CSS, Firebase, Firestore, Mercado Pago, Resend, Vercel)_  
 
 📌 **Proyectos Académicos**  
 - 🎮 [PokeApi](https://gregarious-medovik-37f771.netlify.app/) _(React.js + Tailwind CSS)_  
