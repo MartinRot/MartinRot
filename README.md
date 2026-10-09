@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hola, soy Martin Rotelli 👋🚀</h1>
   <p><strong>Frontend & Full Stack Developer | React · Next.js · TypeScript · Firebase · Node.js</strong></p>
-  <p><em>"Code. Deploy. Improve. Repeat."</em></p>
 
   <p>
     <a href="https://linkedin.com/in/martin-rotelli" target="_blank">
@@ -15,9 +14,6 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?ausername=martinrot&label=Profile%20views&color=0e75b6&style=flat-square" alt="Visitas al perfil" />
-  </p>
 </div>
 
 ---
