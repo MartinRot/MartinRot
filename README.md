@@ -22,7 +22,7 @@
 
 - 💼 **Founder & Lead Developer** en **[Playoff](https://jugaplayoff.com)** / **[Club Playoff](https://clubplayoff.com/argentina)**: SaaS para la digitalización integral de clubes y ligas deportivas (generación web automática, cobro de cuotas con Mercado Pago).
 - ⚡ **Creador & Desarrollador** de **[Paren La Pelota Futsal](https://parenlapelotafutsal.com.ar)**: Plataforma deportiva con **+500.000 visitas anuales**, optimizada con SSR/ISR, SEO técnico y monetización con AdSense.
-- 🛠️ Especializado en **React 19, Next.js (App Router, Server Actions, SSR/ISR)**, **TypeScript estricto** y sincronización en tiempo real con **Firebase Firestore**.
+- 🛠️ Especializado en **React 19, Next.js (App Router, Server Actions, SSR/ISR)**, **TypeScript** y sincronización en tiempo real con **Firebase Firestore**.
 - 📱 Desarrollando experiencias mobile y multiplataforma con **React Native** y **PWA**.
 - 📍 Vicente López, Buenos Aires, Argentina.
 
