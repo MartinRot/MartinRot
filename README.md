@@ -32,11 +32,11 @@
 
 | Proyecto | Descripción & Stack | Enlace |
 | :--- | :--- | :---: |
-| 🏆 **Playoff** | **SaaS de Gestión Deportiva para Clubes.** Generación automática de sitios web públicos con SSR/ISR, gestión de socios y checkout recurrente con Mercado Pago.<br><sub>`Next.js` `TypeScript` `Tailwind CSS` `Firebase Firestore` `Mercado Pago` `Resend` `Vercel`</sub> | [Visitar](https://jugaplayoff.com) |
 | ⚽ **Paren La Pelota Futsal** | **Plataforma deportiva con +500K visitas/año.** Fixtures, tablas de posiciones en vivo, caching y alta performance.<br><sub>`Next.js` `React` `Tailwind CSS` `Firebase` `Google AdSense` `SSR / ISR`</sub> | [Visitar](https://parenlapelotafutsal.com.ar) |
-| 🎮 **Futsalero** | **Simulador de carrera y juego de navegador.** Motor matemático propio de simulación de partidos, ligas y relatos dinámicos generados por IA.<br><sub>`Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Firebase` `Groq AI` `next-intl`</sub> | [Jugar](https://futsalero.parenlapelotafutsal.com.ar/) |
+| 🎮 **Futsalero** | **Simulador de carrera y juego de navegador.** Motor matemático propio de simulación de partidos, ligas y crónicas dinámicas generadas por IA.<br><sub>`Next.js 16` `React 19` `TypeScript` `Tailwind CSS v4` `Firebase` `Groq AI` `next-intl`</sub> | [Jugar](https://futsalero.parenlapelotafutsal.com.ar/) |
+| 🏆 **Playoff** | **SaaS de Gestión Deportiva para Clubes.** Generación automática de sitios web públicos con SSR/ISR, gestión de socios y checkout recurrente con Mercado Pago.<br><sub>`Next.js` `TypeScript` `Tailwind CSS` `Firebase Firestore` `Mercado Pago` `Resend` `Vercel`</sub> | [Visitar](https://jugaplayoff.com) |
+| 🎟️ **Invicu** | **Invitaciones digitales.** Pasarelas duales (Mercado Pago y PayPal) con generación y validación de entradas QR.<br><sub>`Next.js` `TypeScript` `Mercado Pago SDK` `PayPal SDK` `Firebase Admin` `Zod`</sub> | [Visitar](https://invicu.com) |
 | 🐯 **Foro Tigre** | **Comunidad & Portal PWA.** Soporte offline, service workers y sincronización en tiempo real.<br><sub>`Next.js 16` `React 19` `TypeScript` `Serwist (PWA)` `TanStack Query` `Zustand` `Firestore`</sub> | [Visitar](https://forotigre.com) |
-| 🎟️ **Invicu** | **Plataforma de Ticketing & Pagos.** Pasarelas duales (Mercado Pago y PayPal) con generación y validación de entradas QR en submilisegundos.<br><sub>`Next.js` `TypeScript` `Mercado Pago SDK` `PayPal SDK` `Firebase Admin` `Zod`</sub> | [Visitar](https://invicu.com) |
 | 🕹️ **CV Interactivo** | **Portfolio web interactivo con minijuego "Modo Caos".** Físicas 2D para interactuar con las tarjetas del CV.<br><sub>`Next.js` `React 19` `Tailwind CSS` `Framer Motion` `Canvas Confetti`</sub> | [Ver Demo](https://martinrot.github.io/cv/) |
 
 <details>
